@@ -1,0 +1,493 @@
+body{
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 0.9em;
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/logox.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+	
+header{ 
+	background-color: #00BFFF;
+	
+	width:100%;
+	height: 100px;
+	position: fixed;
+}
+
+footer{ 
+	background-color: #00BFFF;
+	color: #ffffff;
+	width:100%;
+	height: 60px;
+	bottom: 0;
+	/*position: absolute;*/
+	text-align: center;
+	
+}
+
+section{
+	min-height: 1700px;
+	padding-top: 100px;
+}
+
+nav ul{
+	list-style-type: none;
+	float: right;
+}
+
+nav ul li{
+	float: left;
+	margin-right: 40px;
+	line-height: 20px;
+	font-family: verdana;
+	font-size: 1.2em;
+	
+}
+
+nav ul li a{
+	text-decoration: none;
+	display: block;
+	color: #0000CD;
+	padding: 20px;
+	border-radius: 30px;
+}
+
+nav ul li a:hover{
+	text-decoration: none;
+	display: block;
+	color: #000000;
+	background-color: #00F5FF;
+	padding: 15px;
+}
+
+#pl{
+	background-color: #CFCFCF;
+	width: 1200px;
+}
+
+#hh{
+	background-color:#CFCFCF ;
+	width: 1200px;
+	text-align: center;
+	font-size: 2.0em;
+}
+
+#sv{
+	background-color:#CFCFCF ;
+	width: 800px;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#bannermarca{
+	width: 1200px;
+	height: 380px;
+	margin: 1 auto;
+}
+
+#plano{
+	width: 1200px;
+	float: left;
+	margin-right: 100px;
+	height: 400px;
+	
+}
+
+#pla1{
+	width: 350px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #00F5FF;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:25px;
+	
+	
+	}
+	
+#pla1 h3{
+	text-decoration: none;
+	text-align: center;
+	line-height: 20px;
+	font-family: verdana;
+	font-size: 1.2em;
+}
+	
+	
+
+#pla2{
+	width: 350px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #00B2EE;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:25px;
+}
+
+#pla3{
+	width: 350px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #66CDAA;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:25px;
+}
+
+#hhh{
+	
+	background-color: #CFCFCF;
+	text-align: center;
+	font-size:1.5em;
+}
+
+#hhhh{
+	
+	background-color: #CFCFCF;
+	text-align: center;
+	font-size:2.0em;
+}
+
+#tudo{
+	width: 1200px;
+	margin: auto;
+	
+}
+
+#benef{
+	width: 1200px;
+	height:400px;
+	float: left;
+	margin-right: 70px;
+	font-size:1.1em
+	
+}
+
+#ben1{
+	width: 370px;
+	height: 300px;
+	margin-right: 30px;
+	float: left;
+	margin: 15px;
+	text-align: center;
+	font-size:1.1em;
+	
+}
+
+#det{
+	padding-top: 40px;
+	margin-right: 40px;
+	
+	
+}
+	
+
+#ben2{
+	
+	width: 370px;
+	height: 300px;
+	margin-right: 30px;
+	float: left;
+	margin: 15px;
+	text-align: center;
+	font-size:1.1em;
+}
+
+#ben3{
+	width: 370px;
+	height: 300px;
+	margin-right: 30px;
+	float: left;
+	margin: 15px;
+	text-align: center;
+	font-size:1.1em;
+}
+
+#bonu{
+	width: 1200px;
+	height: 200px;
+	float: left;
+	margin: 15px 10px 50px 0px;
+}
+
+#ser{
+	width: 800px;
+	height:	250px;
+	margin-bottom: 30px;
+	float: left;
+	font-size:1.1em;
+}
+
+#tl{
+	width: 300px;
+	height:	470px;
+	margin-bottom: 10px;
+	float: right;
+	background-color:#CFCFCF ;
+	border-radius: 10px;
+	text-align: center;
+	margin-right: 20px;
+}
+
+.imgwifi{
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;	
+}	
+
+.imgvelo{
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;	
+}	
+
+#logomarca{
+	 float: left;
+}
+
+								/* PARTE DO PLANO*/
+								
+#pp{
+	text-align: center;
+	background-color: #CFCFCF;
+}								
+
+#fibra{
+	width: 1200px;
+	margin: auto;
+}
+								
+#plano11{
+	
+	width: 1200px;
+	float: left;
+	margin-right: 100px;
+	height: 400px;
+}
+	
+#planof1{
+	width: 350px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #66CDAA;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:25px;
+	
+	}
+
+#planof2{
+	width: 350px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #66CDAA;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:25px;
+}
+
+#planof3{
+	width: 350px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #66CDAA;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:25px;
+}	
+	
+
+	
+#plano12{
+	
+	width: 1200px;
+	float: left;
+	margin-right: 100px;
+	height: 400px;
+	
+}
+
+#plano1{
+	width: 220px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #00F5FF;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:10px;
+	}
+
+#plano2{
+	width: 220px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #00F5FF;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:10px;
+}
+
+#plano3{
+	width: 220px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #00F5FF;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:10px;
+}
+
+#plano4{
+	width: 220px;
+	height: 280px;
+	margin-right: 22px;
+	float: left;
+	background-color: #00F5FF;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:10px;
+}
+
+#plano5{
+	width: 220px;
+	height: 280px;
+	margin-right: 10px;
+	float: left;
+	background-color: #00F5FF;
+	font-size: 1.1em;
+	text-align: center; 
+	border-radius: 10px;
+	margin:10px;
+}
+
+
+#tudo11{
+	width: 1200px;
+	margin: auto;
+	
+}
+
+/*sobre*/
+
+#somos{
+	width: 1200px;
+	height: 700px;
+	margin: auto;	
+	font-size: 1.5em;
+	text-align: formart;
+	
+}
+
+#quem{
+	width: 600px;
+	height:	550px;
+	float: left;
+	color: #1C1C1C;
+}
+
+#ques{
+	width: 600px;
+	height:	250px;
+	
+	float: right;
+}
+
+.imgsobre{
+	width: 400px;
+	height: 400px;
+	margin-left: 170px;
+	
+}
+
+#gg{
+	background-color: #63B8FF;
+	color: #006400;
+	text-align: center;
+}
+
+.imgsob{
+	margin-left: 90px;
+}
+.imgint{
+	width: 700px;
+	height: 150px;
+}
+
+/*atendimento*/
+
+#ated{
+	width: 1200px;
+	height: 700px;
+	margin: auto;	
+	font-size: 1.5em;
+	
+	
+}
+
+#ga{
+	background-color: #63B8FF;
+	color: #006400;
+	text-align: center;
+}
+
+#falcc{
+	Width: 700px;
+	height: 830px;
+	float: left;
+	background-color: #97FFFF;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+#contt{
+	Width: 400px;
+	height: 830px;
+	float: right;
+	background-color: #CFCFCF;
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.imgfl{
+	width: 1000px;
+	height: 360px;
+	padding-left: 100px;
+}
+
+.imgpnf{
+	width: 200px;
+	height: 200px;
+	padding-top: 10px;
+}
+
+.imgwha{
+	width: 20px;
+	height: 20px;
+	
+}
+
